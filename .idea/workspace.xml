@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="86076e91-b7d5-45dc-aced-99e09ce93e98" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloudbuild.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/cloudbuild.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -151,8 +152,16 @@
       <updated>1607777778088</updated>
       <workItem from="1607777783510" duration="4188000" />
       <workItem from="1607867202686" duration="451000" />
-      <workItem from="1607902627500" duration="31000" />
+      <workItem from="1607902627500" duration="1312000" />
     </task>
+    <task id="LOCAL-00001" summary="Iniciando com gcp">
+      <created>1607902721514</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1607902721514</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -169,5 +178,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Iniciando com gcp" />
+    <option name="LAST_COMMIT_MESSAGE" value="Iniciando com gcp" />
   </component>
 </project>
