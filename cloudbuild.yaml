@@ -5,7 +5,7 @@ steps:
 
   - id: "Chown na diretorio /var/www"
     name: "gcr.io/cloud-builders/docker"
-    args: ['exec', '-t', 'app', 'chown', '-R', 'www-data:www-data', '/var/www']
+    args: ['exec', '-u', 'root', '-t', 'app', 'chown', '-R', 'www-data:www-data', '/var/www']
 
   - id: 'Rodando o composer install'
     name: 'gcr.io/cloud-builders/docker'
